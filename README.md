@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Nathnael Tadesse - [@nmktad](https://twitter.com/nmktad) - nmktadesse@gmail.com
 
-Project Link: [https://github.comVoice-Of-Youth/voy](https://github.comVoice-Of-Youth/voy)
+Project Link: [https://github.com/nmktad/quote-generator](https://github.com/nmktad/quote-generator)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
