@@ -61,7 +61,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Voice Of Youth - [@Voice Of Youth](https://twitter.com/Voice-of-youth) - voice-of-youth@gmail.com
+Nathnael Tadesse - [@nmktad](https://twitter.com/nmktad) - nmktadesse@gmail.com
 
 Project Link: [https://github.comVoice-Of-Youth/voy](https://github.comVoice-Of-Youth/voy)
 
