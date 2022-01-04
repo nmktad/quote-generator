@@ -1,12 +1,12 @@
-# quote-generator
-A Website that Randomly fetches quotes from an api and displays it.
-
-<div id="top"></div>
-
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
+# Quote Generator
+A Website that Randomly fetches quotes from an api and displays it.
+
+<div id="top"></div>
 
 <!-- PROJECT LOGO -->
 <br />
